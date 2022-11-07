@@ -3,7 +3,6 @@
 @Library('apm@current') _
 
 import groovy.transform.Field
-
 /**
 Store the worker status so if the CI worker behaves wrongy then let's rerun the stage again
 */
